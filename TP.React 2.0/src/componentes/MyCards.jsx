@@ -1,4 +1,3 @@
-// MyCard.jsx
 import React, { useContext } from "react";
 import { Contexto } from "../context/MiProvider";
 
